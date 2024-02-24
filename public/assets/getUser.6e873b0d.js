@@ -1,0 +1,1 @@
+import{a9 as t}from"./index.b0b93e3c.js";const s=t.getItem("user"),r=JSON.parse(s+""),u=()=>{const e=r.role;return e.includes("admin")?"admin":e.includes("capturista")?"capturista":e.includes("estudiante")?"estudiante":"unknow"};export{u as g};

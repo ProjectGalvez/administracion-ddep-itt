@@ -1,0 +1,1 @@
+import{d as n}from"./documentosApi.f9b655d1.js";import{u}from"./useQuery.esm.76380881.js";const d=async(s,o)=>{try{const{data:r}=await n.get(s,{params:o});return r}catch(r){throw r}},g=(s,o,r,t)=>{const{data:a,isLoading:e,error:c,isSuccess:i}=u(o,()=>d(s,r),t);return{data:a,isLoading:e,error:c,isSuccess:i}};export{g as u};
