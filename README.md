@@ -14,7 +14,7 @@
 1. **Clonar el Repositorio:**
 
 ```
-git clone https://github.com/mateoworks/registro-documentos
+
 ```
 
 2. **Instalar Dependencias:**
